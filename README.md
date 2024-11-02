@@ -1,8 +1,4 @@
 
-Here's a README.md template for your Silly Story Generator app:
-
-markdown
-Copy code
 # Silly Story Generator
 
 Welcome to the Silly Story Generator! This fun app creates random silly stories by combining different elements like characters, actions, and settings. It's perfect for a quick laugh or to spark creativity!
